@@ -61,6 +61,9 @@ class Program
         }
               
         Console.WriteLine($"The max is: {max}");
+        // Part 4: Find the min
+        // There are several ways to do this, such as sorting the list      
+        int min = numbers[0];   
             
     }
 }
