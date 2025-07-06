@@ -32,10 +32,6 @@ class Program
                 Console.WriteLine("You guessed it!");
                 hasGuessedCorrectly = true;
             }
-            
-            // Add a blank line for better readability
-            Console.WriteLine();
-        Console.WriteLine("Hello World! This is the Exercise3 Project.");
 
         }
     }
