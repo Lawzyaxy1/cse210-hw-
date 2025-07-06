@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Sandbox Project.");
+        // this is a csharp program to print a message
+        Console.WriteLine("Hello World! This is the Sandbox Project for csharp.");
     }
 }
+
