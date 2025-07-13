@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-         Console.WriteLine("Hello World! This is the Resumes Project.");
     // Create Job 
         Job job1 = new Job("Software Engineer", "Microsoft", 2019, 2022);
         Job job2 = new Job("Manager", "Apple", 2022, 2023);
@@ -18,8 +17,5 @@ class Program
 
         // Display the resume
         myResume.DisplayResume();
-        // Wait for user input before closing
-        Console.WriteLine("Press any key to exit...");
-        Console.ReadKey(); 
     }
 }
