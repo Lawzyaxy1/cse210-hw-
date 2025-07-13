@@ -27,5 +27,3 @@ class Program
         Console.WriteLine("Hello World! This is the Exercise5 Project.");
     }
 }
-// This program asks the user for their name and favorite number, calculates the square of the number, and displays the result.
-// It also includes a welcome message and a goodbye message at the end.}
