@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq; // For LINQ operations to help with random word selection
 
-// This file is containsing the main program logic for the Scripture Memorizer.
+// This file contains the main program logic for the Scripture Memorizer.
 // It orchestrates the interaction between the user and the Scripture object.
 
 // Exceeding Requirements:
