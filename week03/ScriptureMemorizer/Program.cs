@@ -6,13 +6,6 @@ using System.Linq;
 // This file is containing the main program logic for the Scripture Memorizer.
 // It orchestrates the interaction between the user and the Scripture object.
 
-// Exceeding Requirements:
-// 1. Scripture Library: The program now supports a library of scriptures loaded from a file
-//    (simulated here, but could be easily extended to read from a text file).
-// 2. Random Scripture Selection: A scripture is randomly chosen from the library for each session.   
-// 3. Word Hiding Mechanism: The program hides a specified number of words from the scripture text each time the user presses Enter, allowing for progressive memorization.
-// 4. Customizable Words to Hide: Users can specify how many words to hide per turn.
-
 class Program
 {
     static void Main(string[] args)
